@@ -64,7 +64,9 @@ class Main2 {
         System.out.println(roomList.size());
         for (Room e : roomList){
             System.out.println(e);
+
         }
+
 
     }
 }
